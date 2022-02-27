@@ -28,7 +28,8 @@ I finished the CodeBrainers Tester Manual course where I've extend my knowledge 
  - PostgreSQL
  - Postman
 
-
+## Books
+ - Certyfikowany tester ISTQB poziom podstawowy
 <!---
 Alex-dins/Alex-dins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

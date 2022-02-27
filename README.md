@@ -30,6 +30,10 @@ I finished the CodeBrainers Tester Manual course where I've extend my knowledge 
 
 ## Books
  - Certyfikowany tester ISTQB poziom podstawowy
+
+## My test case examples
+ - [Test cases for site automationpractice.com](https://docs.google.com/spreadsheets/d/1QsiCWQzpptobATuLbb2l40cuUUr7qjmO2Fsfy1Xuyq4/edit?usp=sharing)
+
 <!---
 Alex-dins/Alex-dins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

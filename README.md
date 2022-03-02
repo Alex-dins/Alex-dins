@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-dins
 - 👀 I’m interested in Testing
-- 🌱 I’m currently learning API Testing, Jira, SQL, Python
+- 🌱 I’m currently learning API Testing, Jira, SQL
 - 💞️ I’m looking to collaborate on Company where testers needed
 - 📫 How to reach me klancalex@gmail.com
 
@@ -13,12 +13,12 @@ I finished the CodeBrainers Tester Manual course where I've extend my knowledge 
  - Bug reporting & Test case writing skills
  - Basic test reporting skills
  - Knowledge about Software Testing Tools (Testlink-JIRA-Zephyr-TestRail)
- - Basic knowledge GIT, SQL, Postman, HTML, CSS
- - Basic knowledge about API testing
+ - Basic knowledge GIT, SQL, Postman, HTML, CSS, Javascript
+ - Basic knowledge about API testing, HTTP, JSON.
 
 ## Courses
   ***CodeBrainers - Tester Manual***
-- ISTQB fondation level theory - not certified
+- ISTQB fondation level theory
 - Creating scenarios and test cases
 - Introduction to Agile, Scrum
 - Testing tools

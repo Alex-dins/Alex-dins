@@ -31,12 +31,14 @@ I finished the CodeBrainers Tester Manual course where I've extend my knowledge 
 ## Books
  - Certyfikowany tester ISTQB poziom podstawowy
 
-## My test case examples
- - [Test cases for site automationpractice.com](https://docs.google.com/spreadsheets/d/1QsiCWQzpptobATuLbb2l40cuUUr7qjmO2Fsfy1Xuyq4/edit?usp=sharing)
+## My test scenario examples
+ - [Test scenario for site automationpractice.com](https://docs.google.com/spreadsheets/d/1QsiCWQzpptobATuLbb2l40cuUUr7qjmO2Fsfy1Xuyq4/edit?usp=sharing)
 
 ## My Collection Trello API
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/19326509-1383fe78-50f4-4aa4-a44d-02a38d55a734?action=collection%2Ffork&collection-url=entityId%3D19326509-1383fe78-50f4-4aa4-a44d-02a38d55a734%26entityType%3Dcollection%26workspaceId%3D5fcf817a-74b9-4418-91be-4b940ac35687)
 
+## My CV HTML & CSS
+> [CV](https://klants-oleksandr.netlify.app)
 <!---
 Alex-dins/Alex-dins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -32,7 +32,7 @@ I finished the CodeBrainers Tester Manual course where I've extend my knowledge 
 ## Books
  - Certyfikowany tester ISTQB poziom podstawowy
 
-## My test scenario examples
+## My test cases examples
  - [Test scenario for site automationpractice.com](https://docs.google.com/spreadsheets/d/1QsiCWQzpptobATuLbb2l40cuUUr7qjmO2Fsfy1Xuyq4/edit?usp=sharing)
 
 ## My Collection Trello API

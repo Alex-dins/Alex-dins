@@ -5,21 +5,21 @@
 - 📫 How to reach me klancalex@gmail.com
 
 ## About me
-I finished the CodeBrainers Tester Manual course where I've extend my knowledge about Manual Testing methodology and tools. I have some experience in manual testing of electronic circuits and serviced phones/tablets but I would like to develop my skills and extend my knowledge in a manual testing area. I am looking for new opportunities and I'm open to job offers in the Manual Testing area.
+As a Junior Software Tester, I have experience testing both mobile apps and web sites. I am proficient in using tools such a Postman, Charles, Jira, TestRail and Devtools to ensure the quality and functionality of the software I am testing. I have experience writing test cases and am familiar with concepts such as API, HTTP. I am dedicated to ensuring that the software I test meets the highest standards of quality and am constantly looking for opportunities to learn and grow in my field.
 
 ## Technical Skills
- - Good knowledge of Software testing covered in the ISTQB syllabus
+ - Good knowledge of Software testing covered in the ISTQB syllabus + Certificate
  - Knowledge of Agile methodologies
  - Bug reporting & Test case writing skills
- - Basic test reporting skills
+ - Test reporting skills
  - Knowledge about Software Testing Tools (Testlink-JIRA-Zephyr-TestRail)
- - Basic knowledge GIT, SQL, Postman, HTML, CSS
- - Basic knowledge Javascript, Python
- - Basic knowledge about API testing, HTTP, JSON
+ - Knowledgee GIT, SQL, Postman, HTML, CSS
+ - Knowledge Javascript, Python
+ - Knowledge about API testing, HTTP, JSON
 
 ## Courses
   ***CodeBrainers - Tester Manual***
-- ISTQB fondation level theory
+- ISTQB fondation level theory 
 - Creating scenarios and test cases
 - Introduction to Agile, Scrum
 - Testing tools

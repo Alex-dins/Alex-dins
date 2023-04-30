@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alex-dins
+- 👋 Hi, I’m @Alex
 - 👀 I’m interested in Testing
 - 🌱 I’m currently learning API Testing, Jira, SQL
 - 💞️ I’m looking to collaborate on Company where testers needed

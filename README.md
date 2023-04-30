@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex
-- 👀 I’m interested in Testing
-- 🌱 I’m currently learning API Testing, Jira, SQL
+- 👀 I work as a Software Tester
+- 🌱 I'm into API, Mobile, WEB testing, WEB security and Automate testing
 - 💞️ I’m looking to collaborate on Company where testers needed
 - 📫 How to reach me klancalex@gmail.com
 

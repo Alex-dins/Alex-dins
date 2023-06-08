@@ -36,7 +36,7 @@ As a Junior Software Tester, I have experience testing both mobile apps and web 
 ## My test cases examples
  - [Wim Hof Test Cases (Example)](https://docs.google.com/spreadsheets/d/1FvACBhxDYsC_ZyqWctBDpfJ2n6Tr7epVIutELb61_SY/edit?usp=sharing)
 
-## My test Scenarios examples
+## My test scenarios examples
  - [Test Scenarios (Example)](https://docs.google.com/spreadsheets/d/1-eokG8mOQfn8xsmUxNjBa-DQfKI-qztdc7iPUjSECWY/edit?usp=sharing)
 
 ## My Collection Trello API

@@ -13,8 +13,8 @@ As a Junior Software Tester, I have experience testing both mobile apps and web 
  - Bug reporting & Test case writing skills
  - Test reporting skills
  - Knowledge about Software Testing Tools (Testlink-JIRA-Zephyr-TestRail)
- - Knowledgee GIT,Github, Postman, HTML, CSS
- - Knowledge Javascript, HTML, CSS
+ - Knowledgee GIT,Github, Postman
+ - Knowledge Javascript, HTML, CSS, Cypress
  - Knowledge about API testing, HTTP, JSON
 
 ## Courses

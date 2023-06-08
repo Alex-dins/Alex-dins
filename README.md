@@ -17,6 +17,8 @@ As a Junior Software Tester, I have experience testing both mobile apps and web 
  - Knowledge Javascript, HTML, CSS, Cypress
  - Knowledge about API testing, HTTP, JSON
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## Courses
   ***CodeBrainers - Tester Manual***
 - ISTQB fondation level theory 

@@ -43,13 +43,3 @@ As a Junior Software Tester, I have experience testing both mobile apps and web 
 Alex-dins/Alex-dins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-| Test Scenario ID | Description                                   | Steps to Execute                                           | Expected Results                                            | Actual Results | Pass/Fail |
-|-----------------|-----------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|----------------|-----------|
-| TS001           | Verify successful login with valid credentials | 1. Enter valid username in the username field              | User is able to enter the username                         |                |           |
-|                 |                                               | 2. Enter valid password in the password field              | User is able to enter the password                         |                |           |
-|                 |                                               | 3. Click on the "Login" button                             | User is redirected to the home page/dashboard              |                |           |
-|                 |                                               | 4. Verify that the user is logged in successfully          | User's name is displayed on the home page/dashboard        |                |           |
-| TS002           | Verify error message for invalid credentials   | 1. Enter invalid username in the username field            | User is able to enter the invalid username                 |                |           |
-|                 |                                               | 2. Enter invalid password in
-

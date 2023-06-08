@@ -16,6 +16,8 @@ As a Junior Software Tester, I have experience testing both mobile apps and web 
  - Knowledgee GIT,Github, Postman
  - Knowledge Javascript, HTML, CSS, Cypress 
  - Knowledge about API testing, HTTP, JSON
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,postman)](https://skillicons.dev)
 
 ## Courses

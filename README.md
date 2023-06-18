@@ -5,7 +5,7 @@
 - 📫 How to reach me klancalex@gmail.com
 
 ## About me
-As a Junior Software Tester, I have experience testing both mobile apps and web sites. I am proficient in using tools such a Postman, Charles, Jira, TestRail and Devtools to ensure the quality and functionality of the software I am testing. I have experience writing test cases and am familiar with concepts such as API, HTTP. I am dedicated to ensuring that the software I test meets the highest standards of quality and am constantly looking for opportunities to learn and grow in my field.
+As a Software Tester, I have experience testing both mobile apps and web sites. I am proficient in using tools such a Postman, Charles, Jira, TestRail and Devtools to ensure the quality and functionality of the software I am testing. I have experience writing test cases and am familiar with concepts such as API, HTTP. I am dedicated to ensuring that the software I test meets the highest standards of quality and am constantly looking for opportunities to learn and grow in my field.
 
 ## Technical Skills
  - Good knowledge of Software testing covered in the ISTQB syllabus + Certificate

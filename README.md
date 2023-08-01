@@ -18,7 +18,7 @@ As a Software Tester, I have experience testing both mobile apps and web sites. 
  - Knowledge about API testing, HTTP, JSON, GraphQl
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,postman,androidstudio,devto,mysql)](https://skillicons.dev)
 
 ## Courses
   ***CodeBrainers - Tester Manual***

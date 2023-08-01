@@ -45,8 +45,8 @@ As a Software Tester, I have experience testing both mobile apps and web sites. 
 ## My Collection Trello API
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/19326509-1383fe78-50f4-4aa4-a44d-02a38d55a734?action=collection%2Ffork&collection-url=entityId%3D19326509-1383fe78-50f4-4aa4-a44d-02a38d55a734%26entityType%3Dcollection%26workspaceId%3D5fcf817a-74b9-4418-91be-4b940ac35687)
 
-## My Cypress tests examples
- - [Cypress Tests (Example)](https://github.com/Alex-dins/Cypress-tests)
+## My Cypress test examples
+ - [Cypress Tests](https://github.com/Alex-dins/Cypress-tests)
 <!---
 Alex-dins/Alex-dins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

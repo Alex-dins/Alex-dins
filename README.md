@@ -13,7 +13,7 @@ As a Software Tester, I have experience testing both mobile apps and web sites. 
  - Bug reporting & Test case writing skills
  - Test reporting skills
  - Knowledge about Software Testing Tools (Testlink-JIRA-Zephyr-TestRail)
- - Knowledgee of GIT, Github, Postman
+ - Knowledge of GIT, Github, Postman
  - Knowledge of Javascript, HTML, CSS, Cypress 
  - Knowledge about API testing, HTTP, JSON, GraphQl
 

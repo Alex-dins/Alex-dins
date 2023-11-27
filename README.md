@@ -20,6 +20,21 @@ As a Software Tester, I have experience testing both mobile apps and web sites. 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,postman,androidstudio,devto,mysql)](https://skillicons.dev)
 
+## Cypress test examples
+ - [Cypress Tests](https://github.com/Alex-dins/Cypress-tests)
+
+## Test case examples
+ - [Wim Hof Test Cases (Example)](https://docs.google.com/spreadsheets/d/1FvACBhxDYsC_ZyqWctBDpfJ2n6Tr7epVIutELb61_SY/edit?usp=sharing)
+
+## Test scenario examples
+ - [Test Scenarios (Example)](https://docs.google.com/spreadsheets/d/1-eokG8mOQfn8xsmUxNjBa-DQfKI-qztdc7iPUjSECWY/edit?usp=sharing)
+
+## My Collection Trello API
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/19326509-1383fe78-50f4-4aa4-a44d-02a38d55a734?action=collection%2Ffork&collection-url=entityId%3D19326509-1383fe78-50f4-4aa4-a44d-02a38d55a734%26entityType%3Dcollection%26workspaceId%3D5fcf817a-74b9-4418-91be-4b940ac35687)
+
+## Books
+ - Certyfikowany tester ISTQB poziom podstawowy
+
 ## Courses
   ***CodeBrainers - Tester Manual***
 - ISTQB fondation level theory 
@@ -32,21 +47,6 @@ As a Software Tester, I have experience testing both mobile apps and web sites. 
  - The Complete Cypress v12 Course
  - Learn Bug Bounty Hunting & Web Security Testing
 
-
-## Books
- - Certyfikowany tester ISTQB poziom podstawowy
-
-## My test cases examples
- - [Wim Hof Test Cases (Example)](https://docs.google.com/spreadsheets/d/1FvACBhxDYsC_ZyqWctBDpfJ2n6Tr7epVIutELb61_SY/edit?usp=sharing)
-
-## My test scenarios examples
- - [Test Scenarios (Example)](https://docs.google.com/spreadsheets/d/1-eokG8mOQfn8xsmUxNjBa-DQfKI-qztdc7iPUjSECWY/edit?usp=sharing)
-
-## My Collection Trello API
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/19326509-1383fe78-50f4-4aa4-a44d-02a38d55a734?action=collection%2Ffork&collection-url=entityId%3D19326509-1383fe78-50f4-4aa4-a44d-02a38d55a734%26entityType%3Dcollection%26workspaceId%3D5fcf817a-74b9-4418-91be-4b940ac35687)
-
-## My Cypress test examples
- - [Cypress Tests](https://github.com/Alex-dins/Cypress-tests)
 <!---
 Alex-dins/Alex-dins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
